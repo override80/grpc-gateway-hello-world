@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	helloworldpb "github.com/myuser/myrepo/proto/helloworld"
+	helloworldpb "github.com/override80/grpc-gateway-hello-world/proto/helloworld"
 )
 
 type server struct{}
